@@ -1,0 +1,31 @@
+
+ok_json = json.loads(df2.to_json(orient='records'))
+
+def process_to_geojson(file):
+    geo_data = {"type": "FeatureCollection", "features":[]}
+    for row in file:
+        this_dict = {"type": "Feature", "properties":{}, "geometry": {}}
+        for key, value in row.items():
+            key_names = key.split('.')
+            if key_names[0] == 'geometry':
+                this_dict['geometry'][key_names[1]] = value
+            if str(key_names[0]) == 'properties':
+                this_dict['properties'][key_names[1]] = value
+        geo_data['features'].append(this_dict)
+    return geo_data
+Collapse
+
+
+
+Message Input
+
+
+Message #data-databases
+
+Thread
+social-2019
+
+
+
+
+

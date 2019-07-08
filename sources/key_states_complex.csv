@@ -1,0 +1,74 @@
+Name,Region Type,Region Type Alternatve,ISO 3166-1 alpha-2,ISO 3166-1 alpha-2,ISO 3166-1 alpha-3,ISO 3166-1 numeric-3,ANSI 2-letter,ANSI 2-digit,USPS,USCG,GPO,AP
+United States of America,Federal state,Federal state,US,US,USA,840,US,0,,,U.S.,U.S.
+Alabama,State,State,US-AL,US-AL,US-AL,US-AL,AL,1,AL,AL,Ala.,Ala.
+Alaska,State,State,US-AK,US-AK,US-AK,US-AK,AK,2,AK,AK,Alaska,Alaska
+Arizona,State,State,US-AZ,US-AZ,US-AZ,US-AZ,AZ,4,AZ,AZ,Ariz.,Ariz.
+Arkansas,State,State,US-AR,US-AR,US-AR,US-AR,AR,5,AR,AR,Ark.,Ark.
+California,State,State,US-CA,US-CA,US-CA,US-CA,CA,6,CA,CF,Calif.,Calif.
+Colorado,State,State,US-CO,US-CO,US-CO,US-CO,CO,8,CO,CL,Colo.,Colo.
+Connecticut,State,State,US-CT,US-CT,US-CT,US-CT,CT,9,CT,CT,Conn.,Conn.
+Delaware,State,State,US-DE,US-DE,US-DE,US-DE,DE,10,DE,DL,Del.,Del.
+District of Columbia,Federal district,Federal district,US-DC,US-DC,US-DC,US-DC,DC,11,DC,DC,D.C.,D.C.
+Florida,State,State,US-FL,US-FL,US-FL,US-FL,FL,12,FL,FL,Fla.,Fla.
+Georgia,State,State,US-GA,US-GA,US-GA,US-GA,GA,13,GA,GA,Ga.,Ga.
+Hawaii,State,State,US-HI,US-HI,US-HI,US-HI,HI,15,HI,HA,Hawaii,Hawaii
+Idaho,State,State,US-ID,US-ID,US-ID,US-ID,ID,16,ID,ID,Idaho,Idaho
+Illinois,State,State,US-IL,US-IL,US-IL,US-IL,IL,17,IL,IL,Ill.,Ill.
+Indiana,State,State,US-IN,US-IN,US-IN,US-IN,IN,18,IN,IN,Ind.,Ind.
+Iowa,State,State,US-IA,US-IA,US-IA,US-IA,IA,19,IA,IA,Iowa,Iowa
+Kansas,State,State,US-KS,US-KS,US-KS,US-KS,KS,20,KS,KA,Kans.,Kan.
+Kentucky,State,Commonwealth,US-KY,US-KY,US-KY,US-KY,KY,21,KY,KY,Ky.,Ky.
+Louisiana,State,State,US-LA,US-LA,US-LA,US-LA,LA,22,LA,LA,La.,La.
+Maine,State,State,US-ME,US-ME,US-ME,US-ME,ME,23,ME,ME,Maine,Maine
+Maryland,State,State,US-MD,US-MD,US-MD,US-MD,MD,24,MD,MD,Md.,Md.
+Massachusetts,State,Commonwealth,US-MA,US-MA,US-MA,US-MA,MA,25,MA,MS,Mass.,Mass.
+Michigan,State,State,US-MI,US-MI,US-MI,US-MI,MI,26,MI,MC,Mich.,Mich.
+Minnesota,State,State,US-MN,US-MN,US-MN,US-MN,MN,27,MN,MN,Minn.,Minn.
+Mississippi,State,State,US-MS,US-MS,US-MS,US-MS,MS,28,MS,MI,Miss.,Miss.
+Missouri,State,State,US-MO,US-MO,US-MO,US-MO,MO,29,MO,MO,Mo.,Mo.
+Montana,State,State,US-MT,US-MT,US-MT,US-MT,MT,30,MT,MT,Mont.,Mont.
+Nebraska,State,State,US-NE,US-NE,US-NE,US-NE,NE,31,NE,NB,Nebr.,Neb.
+Nevada,State,State,US-NV,US-NV,US-NV,US-NV,NV,32,NV,NV,Nev.,Nev.
+New Hampshire,State,State,US-NH,US-NH,US-NH,US-NH,NH,33,NH,NH,N.H.,N.H.
+New Jersey,State,State,US-NJ,US-NJ,US-NJ,US-NJ,NJ,34,NJ,NJ,N.J.,N.J.
+New Mexico,State,State,US-NM,US-NM,US-NM,US-NM,NM,35,NM,NM,N.Mex.,N.M.
+New York,State,State,US-NY,US-NY,US-NY,US-NY,NY,36,NY,NY,N.Y.,N.Y.
+North Carolina,State,State,US-NC,US-NC,US-NC,US-NC,NC,37,NC,NC,N.C.,N.C.
+North Dakota,State,State,US-ND,US-ND,US-ND,US-ND,ND,38,ND,ND,N.Dak.,N.D.
+Ohio,State,State,US-OH,US-OH,US-OH,US-OH,OH,39,OH,OH,Ohio,Ohio
+Oklahoma,State,State,US-OK,US-OK,US-OK,US-OK,OK,40,OK,OK,Okla.,Okla.
+Oregon,State,State,US-OR,US-OR,US-OR,US-OR,OR,41,OR,OR,Oreg.,Ore.
+Pennsylvania,State,Commonwealth,US-PA,US-PA,US-PA,US-PA,PA,42,PA,PA,Pa.,Pa.
+Rhode Island,State,State,US-RI,US-RI,US-RI,US-RI,RI,44,RI,RI,R.I.,R.I.
+South Carolina,State,State,US-SC,US-SC,US-SC,US-SC,SC,45,SC,SC,S.C.,S.C.
+South Dakota,State,State,US-SD,US-SD,US-SD,US-SD,SD,46,SD,SD,S.Dak.,S.D.
+Tennessee,State,State,US-TN,US-TN,US-TN,US-TN,TN,47,TN,TN,Tenn.,Tenn.
+Texas,State,State,US-TX,US-TX,US-TX,US-TX,TX,48,TX,TX,Tex.,Texas
+Utah,State,State,US-UT,US-UT,US-UT,US-UT,UT,49,UT,UT,Utah,Utah
+Vermont,State,State,US-VT,US-VT,US-VT,US-VT,VT,50,VT,VT,Vt.,Vt.
+Virginia,State,Commonwealth,US-VA,US-VA,US-VA,US-VA,VA,51,VA,VA,Va.,Va.
+Washington,State,State,US-WA,US-WA,US-WA,US-WA,WA,53,WA,WN,Wash.,Wash.
+West Virginia,State,State,US-WV,US-WV,US-WV,US-WV,WV,54,WV,WV,W.Va.,W.Va.
+Wisconsin,State,State,US-WI,US-WI,US-WI,US-WI,WI,55,WI,WS,Wis.,Wis.
+Wyoming,State,State,US-WY,US-WY,US-WY,US-WY,WY,56,WY,WY,Wyo.,Wyo.
+American Samoa,Insular area,Territory,US-AS,AS,ASM,16,AS,60,AS,AS,A.S.,American Samoa
+Guam,Insular area,Territory,US-GU,GU,GUM,316,GU,66,GU,GU,Guam,Guam
+Northern Mariana Islands,Insular area,Commonwealth,US-MP,MP,MNP,580,MP,69,MP,CM,M.P.,Puerto Rico
+Puerto Rico,Insular area,Territory,US-PR,PR,PRI,630,PR,72,PR,PR,P.R.,U.S. Virgin Islands
+U.S. Virgin Islands,Insular area,Territory,US-VI,VI,VIR,850,VI,78,VI,VI,V.I.,
+U.S. Minor Outlying Islands,Insular areas,Insular areas,US-UM,UM,UMI,581,UM,74,,,,
+Baker Island,island,island,UM-81,UM-81,UM-81,UM-81,,81,,,,
+Howland Island,island,island,UM-84,UM-84,UM-84,UM-84,,84,,,,
+Jarvis Island,island,island,UM-86,UM-86,UM-86,UM-86,,86,,,,
+Johnston Atoll,atoll,atoll,UM-67,UM-67,UM-67,UM-67,,67,,,,
+Kingman Reef,atoll,atoll,UM-89,UM-89,UM-89,UM-89,,89,,,,
+Midway Islands,atoll,atoll,UM-71,UM-71,UM-71,UM-71,,71,,,,
+Navassa Island,island,island,UM-76,UM-76,UM-76,UM-76,,76,,,,
+Palmyra Atoll,atoll,atoll,UM-95,UM-95,UM-95,UM-95,,95,,,,
+Wake Island,atoll,atoll,UM-79,UM-79,UM-79,UM-79,,79,,,,
+Micronesia,Freely associated state,Freely associated state,FM,FM,FSM,583,FM,64,FM,,,
+Marshall Islands,Freely associated state,Freely associated state,MH,MH,MHL,584,MH,68,MH,,,
+Palau,Freely associated state,Freely associated state,PW,PW,PLW,585,PW,70,PW,,,
+U.S. Armed Forces -- Americas,US military mail code,US military mail code,,,,,,,AA,,,
+U.S. Armed Forces -- Europe,US military mail code,US military mail code,,,,,,,AE,,,
+U.S. Armed Forces -- Pacific,US military mail code,US military mail code,,,,,,,AP,,,

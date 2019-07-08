@@ -1,0 +1,115 @@
+﻿Ind,Court_Circuit,Court_Name_Long,Court_Name_Short,Court_Abbrev_Bluebook,Court_Abbrev_Website,State_Name,State_Abbrev,Court_Type,Court_Category,Court_Cat_Const
+1,Fed,Supreme Court of the United States,United States Supreme Court                           ,U.S.             ,SC,,,Supreme Court,Federal,Article III
+2,1,U.S. Court of Appeals for the First Circuit,First Circuit                                                            ,1st Cir.,01 - CCA,,,Court of Appeals,Federal,Article III
+3,2,U.S. Court of Appeals for the Second Circuit,Second Circuit,2d Cir.,02 - CCA,,,Court of Appeals,Federal,Article III
+4,3,U.S. Court of Appeals for the Third Circuit,Third Circuit,3d Cir.,03 - CCA,,,Court of Appeals,Federal,Article III
+5,4,U.S. Court of Appeals for the Fourth Circuit,Fourth Circuit,4th Cir.,04 - CCA,,,Court of Appeals,Federal,Article III
+6,5,U.S. Court of Appeals for the Fifth Circuit,Fifth Circuit,5th Cir.,05 - CCA,,,Court of Appeals,Federal,Article III
+7,6,U.S. Court of Appeals for the Sixth Circuit,Sixth Circuit,6th Cir.,06 - CCA,,,Court of Appeals,Federal,Article III
+8,7,U.S. Court of Appeals for the Seventh Circuit,Seventh Circuit,7th Cir.,07 - CCA,,,Court of Appeals,Federal,Article III
+9,8,U.S. Court of Appeals for the Eighth Circuit,Eighth Circuit,8th Cir.,08 - CCA,,,Court of Appeals,Federal,Article III
+10,9,U.S. Court of Appeals for the Ninth Circuit,Ninth Circuit,9th Cir.,09 - CCA,,,Court of Appeals,Federal,Article III
+11,10,U.S. Court of Appeals for the Tenth Circuit,Tenth Circuit,10th Cir.,10 - CCA,,,Court of Appeals,Federal,Article III
+12,11,U.S. Court of Appeals for the Eleventh Circuit,Eleventh Circuit                     ,11th Cir.,11 - CCA,,,Court of Appeals,Federal,Article III
+13,D.C.,U.S. Court of Appeals for the District of Columbia Circuit,D.C. Circuit,D.C. Cir.,DC - CCA,,,Court of Appeals,Federal,Article III
+14,Fed,U.S. Court of Appeals for the Federal Circuit,Federal Circuit,Fed. Cir.,FD - CCA ,,,Court of Appeals,Federal,Article III
+15,11,U.S. District Court for the Middle District of Alabama,Middle District of Alabama,M.D. Ala.,11 - AL-M,Alabama,AL,District Court,Federal,Article III
+16,11,U.S. District Court for the Northern District of Alabama,Northern District of Alabama,N.D. Ala.,11 - AL-N,Alabama,AL,District Court,Federal,Article III
+17,11,U.S. District Court for the Southern District of Alabama,Southern District of Alabama,S.D. Ala.,11 - AL-S,Alabama,AL,District Court,Federal,Article III
+18,9,U.S. District Court for the District of Alaska,District of Alaska,D. Alaska,09 - AK,Alaska,AK,District Court,Federal,Article III
+19,9,U.S. District Court for the District of Arizona,District of Arizona,D. Ariz.,09 - AZ,Arizona,AZ,District Court,Federal,Article III
+20,8,U.S. District Court for the Eastern District of Arkansas,Eastern District of Arkansas,E.D. Ark.,08 - AR-E,Arkansas,AR,District Court,Federal,Article III
+21,8,U.S. District Court for the Western District of Arkansas,Western District of Arkansas,W.D. Ark.,08 - AR-W,Arkansas,AR,District Court,Federal,Article III
+22,9,U.S. District Court for the Central District of California,Central District of California,C.D. Cal.,09 - CA-C,California,CA,District Court,Federal,Article III
+23,9,U.S. District Court for the Eastern District of California,Eastern District of California,E.D. Cal.,09 - CA-E,California,CO,District Court,Federal,Article III
+24,9,U.S. District Court for the Northern District of California,Northern District of California,N.D. Cal.,09 - CA-N,California,CT,District Court,Federal,Article III
+25,9,U.S. District Court for the Southern District of California,Southern District of California,S.D. Cal.,09 - CA-S,California,DE,District Court,Federal,Article III
+26,10,U.S. District Court for the District of Colorado,District of Colorado,D. Colo.,10 - CO,Colorado,CO,District Court,Federal,Article III
+27,2,U.S. District Court for the District of Connecticut,District of Connecticut,D. Conn.,02 - CT,Connecticut,CT,District Court,Federal,Article III
+28,3,U.S. District Court for the District of Delaware,District of Delaware,D. Del.,03 - DE,Delaware,DE,District Court,Federal,Article III
+29,D.C.,U.S. District Court for the District of Columbia,District of D.C.,D.D.C.,DC - DC,District of Columbia,DC,District Court,Federal,Article III
+30,10,U.S. District Court for the Middle District of Florida,Middle District of Florida,M.D. Fla.,10 - FL-M,Florida,FL,District Court,Federal,Article III
+31,10,U.S. District Court for the Northern District of Florida,Northern District of Florida,N.D. Fla.,10 - FL-N,Florida,FL,District Court,Federal,Article III
+32,10,U.S. District Court for the Southern District of Florida,Southern District of Florida,S.D. Fla.,10 - FL-S,Florida,FL,District Court,Federal,Article III
+33,11,U.S. District Court for the Middle District of Georgia,Middle District of Georgia,M.D. Ga.,11 - GA-M,Georgia,GA,District Court,Federal,Article III
+34,11,U.S. District Court for the Northern District of Georgia,Northern District of Georgia,N.D. Ga.,11 - GA-N,Georgia,GA,District Court,Federal,Article III
+35,11,U.S. District Court for the Southern District of Georgia,Southern District of Georgia,S.D. Ga.,11 - GA-S,Georgia,GA,District Court,Federal,Article III
+36,109,U.S. District Court for the District of Guam,District of Guam,D. Guam,09 - GU,Guam,GU,District Court,Territorial,Article IV
+37,9,U.S. District Court for the District of Hawaii,District of Hawaii,D. Haw.,09 - HI,Hawaii,HI,District Court,Federal,Article III
+38,9,U.S. District Court for the District of Idaho,District of Idaho,D. Idaho,09 - ID,Idaho,ID,District Court,Federal,Article III
+39,7,U.S. District Court for the Central District of Illinois,Central District of Illinois,C.D. Ill.,07 - IL-C,Illinois,IL,District Court,Federal,Article III
+40,7,U.S. District Court for the Northern District of Illinois,Northern District of Illinois,N.D. Ill.,07 - IL-N,Illinois,IL,District Court,Federal,Article III
+41,7,U.S. District Court for the Southern District of Illinois,Southern District of Illinois,S.D. Ill.,07 - IL-S,Illinois,IL,District Court,Federal,Article III
+42,7,U.S. District Court for the Northern District of Indiana,Northern District of Indiana,N.D. Ind.,07 - IN-N,Indiana,IN,District Court,Federal,Article III
+43,7,U.S. District Court for the Southern District of Indiana,Southern District of Indiana,S.D. Ind.,07 - IN-S,Indiana,IN,District Court,Federal,Article III
+44,8,U.S. District Court for the Northern District of Iowa,Northern District of Iowa,N.D. Iowa,08 - IA-N,Iowa,IA,District Court,Federal,Article III
+45,8,U.S. District Court for the Southern District of Iowa,Southern District of Iowa,S.D. Iowa,08 - IA-S,Iowa,IA,District Court,Federal,Article III
+46,10,U.S. District Court for the District of Kansas,District of Kansas,D. Kan.,10 - KS,Kansas,KS,District Court,Federal,Article III
+47,6,U.S. District Court for the Eastern District of Kentucky,Eastern District of Kentucky,E.D. Ky.,06 - KY-E,Kentucky,KY,District Court,Federal,Article III
+48,6,U.S. District Court for the Western District of Kentucky,Western District of Kentucky,W.D. Ky.,06 - KY-W,Kentucky,KY,District Court,Federal,Article III
+49,5,U.S. District Court for the Eastern District of Louisiana,Eastern District of Louisiana,E.D. La.,05 - LA-E,Louisiana,LA,District Court,Federal,Article III
+50,5,U.S. District Court for the Middle District of Louisiana,Middle District of Louisiana,M.D. La.,05 - LA-M,Louisiana,LA,District Court,Federal,Article III
+51,5,U.S. District Court for the Western District of Louisiana,Western District of Louisiana,W.D. La.,05 - LA-W,Louisiana,LA,District Court,Federal,Article III
+52,1,U.S. District Court for the District of Maine,District of Maine,D. Me.,01 - ME,Maine,ME,District Court,Federal,Article III
+53,4,U.S. District Court for the District of Maryland,District of Maryland,D. Md.,04 - MD,Maryland,MD,District Court,Federal,Article III
+54,1,U.S. District Court for the District of Massachusetts,District of Massachusetts,D. Mass.,01 - MA,Massachusetts,MA,District Court,Federal,Article III
+55,6,U.S. District Court for the Eastern District of Michigan,Eastern District of Michigan,E.D. Mich.,06 - MI-E,Michigan,MI,District Court,Federal,Article III
+56,6,U.S. District Court for the Western District of Michigan,Western District of Michigan,W.D. Mich.,06 - MI-W,Michigan,MI,District Court,Federal,Article III
+57,8,U.S. District Court for the District of Minnesota,District of Minnesota,D. Minn.,08 - MN,Minnesota,MN,District Court,Federal,Article III
+58,5,U.S. District Court for the Northern District of Mississippi,Northern District of Mississippi,N.D. Miss.,05 - MS-N,Mississippi,MS,District Court,Federal,Article III
+59,5,U.S. District Court for the Southern District of Mississippi,Southern District of Mississippi,S.D. Miss.,05 - MS-S,Mississippi,MS,District Court,Federal,Article III
+60,8,U.S. District Court for the Eastern District of Missouri,Eastern District of Missouri,E.D. Mo.,08 - MO-E,Missouri,MO,District Court,Federal,Article III
+61,8,U.S. District Court for the Western District of Missouri,Western District of Missouri,W.D. Mo.,08 - MO-W,Missouri,MO,District Court,Federal,Article III
+62,9,U.S. District Court for the District of Montana,District of Montana,D. Mont.,09 - MT,Montana,MT,District Court,Federal,Article III
+63,8,U.S. District Court for the District of Nebraska,District of Nebraska,D. Neb.,08 - NE,Nebraska,NE,District Court,Federal,Article III
+64,9,U.S. District Court for the District of Nevada,District of Nevada,D. Nev.,09 - NV,Nevada,NV,District Court,Federal,Article III
+65,1,U.S. District Court for the District of New Hampshire,District of New Hampshire,D.N.H.,01 - NH,New Hampshire,NH,District Court,Federal,Article III
+66,3,U.S. District Court for the District of New Jersey,District of New Jersey,D.N.J.,03 - NJ,New Jersey,NJ,District Court,Federal,Article III
+67,10,U.S. District Court for the District of New Mexico,District of New Mexico,D.N.M.,10 - NM,New Mexico,NM,District Court,Federal,Article III
+68,2,U.S. District Court for the Eastern District of New York,Eastern District of New York,E.D.N.Y.,02 - NY-E,New York,NY,District Court,Federal,Article III
+69,2,U.S. District Court for the Northern District of New York,Northern District of New York,N.D.N.Y.,02 - NY-N,New York,NY,District Court,Federal,Article III
+70,2,U.S. District Court for the Southern District of New York,Southern District of New York,S.D.N.Y.,02 - NY-S,New York,NY,District Court,Federal,Article III
+71,2,U.S. District Court for the Western District of New York,Western District of New York,W.D.N.Y.,02 - NY-W,New York,NY,District Court,Federal,Article III
+72,4,U.S. District Court for the Eastern District of North Carolina,Eastern District of North Carolina,E.D.N.C.,04 - NC-E,North Carolina,NC,District Court,Federal,Article III
+73,4,U.S. District Court for the Middle District of North Carolina,Middle District of North Carolina,M.D.N.C.,04 - NC-M,North Carolina,NC,District Court,Federal,Article III
+74,4,U.S. District Court for the Western District of North Carolina,Western District of North Carolina,W.D.N.C.,04 - NC-W,North Carolina,NC,District Court,Federal,Article III
+75,8,U.S. District Court for the District of North Dakota,District of North Dakota,D.N.D.,08 - ND,North Dakota,ND,District Court,Federal,Article III
+76,109,U.S. District Court for the District of the Northern Mariana Islands,District of the Northern Mariana Islands,D.N. Mar. Is.,09 - MP,Northern Mariana Islands,MP,District Court,Territorial,Article IV
+77,6,U.S. District Court for the Northern District of Ohio,Northern District of Ohio,N.D. Ohio,06 - OH-N,Ohio,OH,District Court,Federal,Article III
+78,6,U.S. District Court for the Southern District of Ohio,Southern District of Ohio,S.D. Ohio,06 - OH-S,Ohio,OH,District Court,Federal,Article III
+79,10,U.S. District Court for the Eastern District of Oklahoma,Eastern District of Oklahoma,E.D. Okla.,10 - OK-E,Oklahoma,OK,District Court,Federal,Article III
+80,10,U.S. District Court for the Northern District of Oklahoma,Northern District of Oklahoma,N.D. Okla.,10 - OK-N,Oklahoma,OK,District Court,Federal,Article III
+81,10,U.S. District Court for the Western District of Oklahoma,Western District of Oklahoma,W.D. Okla.,10 - OK-W,Oklahoma,OK,District Court,Federal,Article III
+82,9,U.S. District Court for the District of Oregon,District of Oregon,D. Or.,09 - OR,Oregon,OR,District Court,Federal,Article III
+83,3,U.S. District Court for the Eastern District of Pennsylvania,Eastern District of Pennsylvania,E.D. Pa.,03 - PA-E,Pennsylvania,PA,District Court,Federal,Article III
+84,3,U.S. District Court for the Middle District of Pennsylvania,Middle District of Pennsylvania,M.D. Pa.,03 - PA-M,Pennsylvania,PA,District Court,Federal,Article III
+85,3,U.S. District Court for the Western District of Pennsylvania,Western District of Pennsylvania,W.D. Pa.,03 - PA-W,Pennsylvania,PA,District Court,Federal,Article III
+86,1,U.S. District Court for the District of Puerto Rico,District of Puerto Rico,D.P.R.,01 - PR,Puerto Rico,PR,District Court,Federal,Article III
+87,1,U.S. District Court for the District of Rhode Island,District of Rhode Island,D.R.I.,01 - RI,Rhode Island,RI,District Court,Federal,Article III
+88,4,U.S. District Court for the District of South Carolina,District of South Carolina,D.S.C.,04 - SC,South Carolina,SC,District Court,Federal,Article III
+89,8,U.S. District Court for the District of South Dakota,District of South Dakota,D.S.D.,08 - SD,South Dakota,SD,District Court,Federal,Article III
+90,6,U.S. District Court for the Eastern District of Tennessee,Eastern District of Tennessee,E.D. Tenn.,06 - TN-E,Tennessee,TN,District Court,Federal,Article III
+91,6,U.S. District Court for the Middle District of Tennessee,Middle District of Tennessee,M.D. Tenn.,06 - TN-M,Tennessee,TN,District Court,Federal,Article III
+92,6,U.S. District Court for the Western District of Tennessee,Western District of Tennessee,W.D. Tenn.,06 - TN-W,Tennessee,TN,District Court,Federal,Article III
+93,5,U.S. District Court for the Eastern District of Texas,Eastern District of Texas,E.D. Tex.,05 - TX-E,Texas,TX,District Court,Federal,Article III
+94,5,U.S. District Court for the Northern District of Texas,Northern District of Texas,N.D. Tex.,05 - TX-N,Texas,TX,District Court,Federal,Article III
+95,5,U.S. District Court for the Southern District of Texas,Southern District of Texas,S.D. Tex.,05 - TX-S,Texas,TX,District Court,Federal,Article III
+96,5,U.S. District Court for the Western District of Texas,Western District of Texas,W.D. Tex.,05 - TX-W,Texas,TX,District Court,Federal,Article III
+97,10,U.S. District Court for the District of Utah,District of Utah,D. Utah,10 - UT,Utah,UT,District Court,Federal,Article III
+98,2,U.S. District Court for the District of Vermont,District of Vermont,D. Vt.,02 - VT,Vermont,VT,District Court,Federal,Article III
+99,4,U.S. District Court for the Eastern District of Virginia,Eastern District of Virginia,E.D. Va.,04 - VA-E,Virginia,VA,District Court,Federal,Article III
+100,4,U.S. District Court for the Western District of Virginia,Western District of Virginia,W.D. Va.,04 - VA-W,Virginia,VA,District Court,Federal,Article III
+101,103,U.S. District Court for the District of the Virgin Islands,District of the Virgin Islands,D.V.I.,03 - VI,Virgin Islands,VI,District Court,Territorial,Article IV
+102,9,U.S. District Court for the Eastern District of Washington,Eastern District of Washington,E.D. Wash.,09 - WA-E,Washington,WA,District Court,Federal,Article III
+103,9,U.S. District Court for the Western District of Washington,Western District of Washington,W.D. Wash.,09 - WA-W,Washington,WA,District Court,Federal,Article III
+104,4,U.S. District Court for the Northern District of West Virginia,Northern District of West Virginia,N.D.W. Va.,04 - WV-N,West Virginia,WV,District Court,Federal,Article III
+105,4,U.S. District Court for the Southern District of West Virginia,Southern District of West Virginia,S.D.W. Va.,04 - WV-S,West Virginia,WV,District Court,Federal,Article III
+106,7,U.S. District Court for the Eastern District of Wisconsin,Eastern District of Wisconsin,E.D. Wis.,07 - IN-E,Wisconsin,WI,District Court,Federal,Article III
+107,7,U.S. District Court for the Western District of Wisconsin,Western District of Wisconsin,W.D. Wis.,07 - IN-W,Wisconsin,WI,District Court,Federal,Article III
+108,10,U.S. District Court for the District of Wyoming,District of Wyoming,D. Wyo.,10 - WY,Wyoming,WY,District Court,Federal,Article III
+110,,U.S. Court of International Trade,Court of International Trade,Int'l Trade,IT,,,,Federal,Article III
+111,,U.S. Foreign Intelligence Surveillance Court,FISA Court,,,,,,Federal,Article III
+112,,U.S. Foreign Intelligence Surveillance Court of Review,FISCR,,,,,,Federal,Article III
+113,,U.S. Alien Terrorist Removal Court,Alien Terrorist Removal Court,,,,,,Federal,Article III
+114,,U.S. Judicial Panel on Multidistrict Litigation,,J.P.M.L.,,,,,Federal,Article I
+115,,U.S. Court of Federal Claims,,Fed. Cl.,CL,,,,,
