@@ -1,0 +1,73 @@
+TO DO:
+=======================================
+
+test mapping
+
+test bokeh
+
+make any working gantt chart
+	timeline the types of appointments held or degrees earned
+
+bar chart (of stacked circles?) for each president
+
+
+
+DEAD IDEAS:
+=======================================
+break up Professional_Career by colon
+strip common words from "Counter"
+scrape vacancies of late obama era
+
+
+COMPLETE:
+=======================================
+XXX dates to datetime
+XXX compare appointing and reappointing pres
+XXX export colleges to csv to find errors.
+XXX Convert Seat Id in working Seat ID and district abbrev
+XXX scrape vacancies
+XXX scrape emergencies
+XXX add color to master df
+
+
+RESEARCH VECTORS
++++++++++++++++++++++++++++
+SCHOOLING schools & degree types
+COURT LEAN by circuit & district
+
+
+
+
+
+
+
+
+MAPBOX TOKEN
+pk.eyJ1IjoiZG9taG5hbGwiLCJhIjoiY2p4cGljcnk5MGkyNjNkcDllaW9jODA5OCJ9.p32IIwyiH8KyWtTJPcWe8A
+
+GOOGLE API KEY
+AIzaSyCFORaQWnYWzOsQh_ssJZaypbyp-dXU3ts
+
+PLOT.LY API KEY
+LhoomS2dJqAvUatOXGpr
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++
+Found complete data sets everything
+They're very clear its built for ther purposes it basically powers their website and that's the goal of its structure.
+so it was a little work to get data I can parse
+
+they order careers by the first federal appointment and then the second etc. so you can't easily snapshot the situation today
+tried a bunch of things and ran down rabbit holes
+ultimately cheated and had to use Excel
+felt dirty
+
+super-useful data in here
+they have organize judges by imaginary seat numbers on each panel but it inexplicable uses a different coding system than other parts of the site 
+so i made key-tables to cross any judicial info I might find by court full name, short name, bluebook code and the coding system of the website
+i also made a key-table to add a bit more presidential info which brought to my attention that the courts site is a stickler for presidential names e.g. "S" in Ulysses Grant & Harry Truman names.
+they also have a judicial emergency category 
+
